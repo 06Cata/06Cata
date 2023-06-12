@@ -4,7 +4,7 @@
 - 👀 I’m interested in Machine learning, Spanish, Latin culture, salsa, etc.
 - 📝 I used to work as a foreign business Spanish sales in the spare parts industry and Mandarin teacher.
 - 📫 How to reach me catalinakuowork@gmail.com
-- 👥 English, Spanish version resume: https://www.linkedin.com/in/catalina-k-3a63951a5/
+- English, Spanish version resume: https://www.linkedin.com/in/catalina-k-3a63951a5/
 - 中文履歷: https://www.cakeresume.com/work-cata
 <!---
 06Cata/06Cata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
