@@ -5,10 +5,10 @@ discrete mathematics, probability theory, calculus, and linear algebra over the 
 Let's leave a message and discuss and exchange ideas! 🤲🤝
 - 💞️ I’m looking to collaborate on fun Python and data analysis exercises. 
 
-- 📫 How to reach me catalinakuowork@gmail.com
-- English, Spanish version resume: https://www.linkedin.com/in/catalina-k-3a63951a5/
-- 中文履歷: https://www.cakeresume.com/work-cata
-- HackMd 文章：https://hackmd.io/@KcUPcvwrTTmVj3rXJd5QKw
+- 📫 How to reach me : catalinakuowork@gmail.com
+- English, Spanish version resume : https://www.linkedin.com/in/catalina-k-3a63951a5/
+- 中文履歷 : https://www.cakeresume.com/work-cata
+- HackMd 文章 : https://hackmd.io/@KcUPcvwrTTmVj3rXJd5QKw
 <!---
 06Cata/06Cata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
