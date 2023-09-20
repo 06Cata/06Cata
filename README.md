@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @06Cata
-- 💞️ I’m looking to collaborate on fun Python and data analysis exercises.
-- 👀 I’m interested in Machine learning, Spanish, Latin culture, salsa, etc.
 - 🌱 Hi, this is Catalina! I originally worked in a Spanish-language business.
 In 2023, I transitioned to become a data engineer. My plan is to complete my knowledge in Python/R,
 machine learning, statistics, algorithms, data structures, computer organization/introduction/networking,
 discrete mathematics, probability theory, calculus, and linear algebra over the next two years.
 Let's leave a message and discuss and exchange ideas! 🤲🤝
+- 💞️ I’m looking to collaborate on fun Python and data analysis exercises. 
 
 - 📫 How to reach me catalinakuowork@gmail.com
 - English, Spanish version resume: https://www.linkedin.com/in/catalina-k-3a63951a5/
