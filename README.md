@@ -1,4 +1,4 @@
-- 🌱 Hi, this is Catalina! I originally worked in a Spanish-language business.
+- 🌱 Hi, this is Catalina! I originally worked as a foreign business professional in Spanish.
 In 2023, I transitioned to become a data engineer. My plan is to complete my knowledge in Python/R,
 machine learning, statistics, algorithms, data structures, computer organization/introduction/networking,
 discrete mathematics, probability theory, calculus, and linear algebra over the next two years.
