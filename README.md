@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @06Cata
-- 🌱 I’m currently learning how to code in the BootCamp!
 - 💞️ I’m looking to collaborate on fun Python and data analysis exercises.
 - 👀 I’m interested in Machine learning, Spanish, Latin culture, salsa, etc.
-- 📝 I used to work as a foreign business Spanish sales in the spare parts industry and Mandarin teacher.
+- 🌱 Hi, this is Catalina! I originally worked in a Spanish-language business.
+In 2023, I transitioned to become a data engineer. My plan is to complete my knowledge in Python/R,
+machine learning, statistics, algorithms, data structures, computer organization/introduction/networking,
+discrete mathematics, probability theory, calculus, and linear algebra over the next two years.
+Let's leave a message and discuss and exchange ideas! 🤲🤝
+
 - 📫 How to reach me catalinakuowork@gmail.com
 - English, Spanish version resume: https://www.linkedin.com/in/catalina-k-3a63951a5/
 - 中文履歷: https://www.cakeresume.com/work-cata
