@@ -5,7 +5,8 @@ Let's leave a message and discuss and exchange ideas! 🤲🤝
 - 📫 How to reach me : catalinakuowork@gmail.com
 - Linkedin : https://www.linkedin.com/in/catalina-k-3a63951a5/
 - Resume : https://www.cakeresume.com/work-cata
-- HackMd Profolio : https://hackmd.io/@workcata
+- HackMd : https://hackmd.io/@workcata
+- Profolio : https://value-investment-analysis-website.streamlit.app/
 <!---
 06Cata/06Cata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
